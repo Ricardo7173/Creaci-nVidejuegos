@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.hd-tecnologia.com/imagenes/articulos/2024/02/La-industria-de-los-videojuegos-enfrenta-su-mayor-desaceleracion-en-tres-decadas.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Portafolio de Evidencias Unidad 2
