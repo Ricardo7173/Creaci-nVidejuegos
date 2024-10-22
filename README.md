@@ -15,10 +15,10 @@
 - [Chrono Creatures](#chrono-creatures)
 - [Planificación](#planificación)
 - [Actividades de clase](#actividades-de-clase)
-- [Prototipos/Leciones]("prototipos/leciones)
+- [Prototipos/Leciones](#prototiposleciones)
 - [Challenges](#challenges)
 - [Autor](#autor)
-- [Videojuego](#videojuego)
+- [Videojuego](#videojuegochrono-creatures)
 - [Fecha de Creación](#fecha-de-creación)
 
 
@@ -91,3 +91,4 @@ Garay Garcia Omar Ricardo
 
 ## Fecha de Creación
 27 de Septiembre del 2024
+
