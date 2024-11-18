@@ -15,7 +15,7 @@
 - [Chrono Creatures](#chrono-creatures)
 - [Planificación](#planificación)
 - [Actividades de clase](#actividades-de-clase)
-- [Prototipos/Leciones](#prototiposleciones)
+- [Prototipos/Leciones](#prototipostutoriales)
 - [Challenges](#challenges)
 - [Autor](#autor)
 - [Videojuego](#videojuegochrono-creatures)
@@ -54,22 +54,31 @@ La historia sigue a **Ethan Kross** y sus amigos, quienes deben enfrentarse a se
 
 
 ## Actividades de clase
-### Prototipos/Leciones
-* Lección 1
+### Prototipos/Tutoriales
+* Prototipo 1
   * > [Tutorial/Prueba](https://youtu.be/H2X9XDbaF-U)
   * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%201.unitypackage)
-* Lección 2
+* Prototipo 2
   * > [Tutorial/Prueba](https://youtu.be/HWLGzaLmYmo)
   * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%202.unitypackage)
-* Lección 3
+* Tutorial 1
   * > [Se entrego en clase]()
   * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%203.unitypackage)
-* Lección 4(Pendiente)
-  * > [Tutorial/Prueba]()
-  * > [UnityPackage]()
-* Lección 5(Pendiente)
-  * > [Tutorial/Prueba]()
-  * > [UnityPackage]()
+* Tutorial 2
+  * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%20parte%202.docx)
+  * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipos.unitypackage)
+* Tutorial 3
+  * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%20parte%203.docx)
+  * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipos.unitypackage)
+* Tutorial 4
+  * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%20parte%204.docx)
+  * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipos.unitypackage)
+* Tutorial 5
+  * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%20parte%205.docx)
+  * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipos.unitypackage)
+* Tutorial 6
+  * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipo%20parte%206.docx)
+  * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Prototipos.unitypackage)
 ### Challenges
 * Challenge-1
   * > [Se entrego en clase]()
@@ -77,6 +86,9 @@ La historia sigue a **Ethan Kross** y sus amigos, quienes deben enfrentarse a se
 * Challenge-2
   * > [Tutorial/Prueba](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Challenge-2.docx)
   * > [UnityPackage](https://github.com/Ricardo7173/Creaci-nVidejuegos/blob/main/Challenge-2.unitypackage)
+* Challenge-3
+  * > [Se entrego en clase]()
+  * > [UnityPackage]()
 
 
 ## Videojuego(Chrono Creatures)
